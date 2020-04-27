@@ -1,0 +1,13 @@
+C:\Users\millr\source\repos\GC Lab 07 Regular Expressions\GC Lab 07 Regular Expressions\obj\Debug\netcoreapp3.1\GC Lab 07 Regular Expressions.csprojAssemblyReference.cache
+C:\Users\millr\source\repos\GC Lab 07 Regular Expressions\GC Lab 07 Regular Expressions\obj\Debug\netcoreapp3.1\GC Lab 07 Regular Expressions.csproj.CoreCompileInputs.cache
+C:\Users\millr\source\repos\GC Lab 07 Regular Expressions\GC Lab 07 Regular Expressions\obj\Debug\netcoreapp3.1\GC Lab 07 Regular Expressions.AssemblyInfoInputs.cache
+C:\Users\millr\source\repos\GC Lab 07 Regular Expressions\GC Lab 07 Regular Expressions\obj\Debug\netcoreapp3.1\GC Lab 07 Regular Expressions.AssemblyInfo.cs
+C:\Users\millr\source\repos\GC Lab 07 Regular Expressions\GC Lab 07 Regular Expressions\bin\Debug\netcoreapp3.1\GC Lab 07 Regular Expressions.exe
+C:\Users\millr\source\repos\GC Lab 07 Regular Expressions\GC Lab 07 Regular Expressions\bin\Debug\netcoreapp3.1\GC Lab 07 Regular Expressions.deps.json
+C:\Users\millr\source\repos\GC Lab 07 Regular Expressions\GC Lab 07 Regular Expressions\bin\Debug\netcoreapp3.1\GC Lab 07 Regular Expressions.runtimeconfig.json
+C:\Users\millr\source\repos\GC Lab 07 Regular Expressions\GC Lab 07 Regular Expressions\bin\Debug\netcoreapp3.1\GC Lab 07 Regular Expressions.runtimeconfig.dev.json
+C:\Users\millr\source\repos\GC Lab 07 Regular Expressions\GC Lab 07 Regular Expressions\bin\Debug\netcoreapp3.1\GC Lab 07 Regular Expressions.dll
+C:\Users\millr\source\repos\GC Lab 07 Regular Expressions\GC Lab 07 Regular Expressions\bin\Debug\netcoreapp3.1\GC Lab 07 Regular Expressions.pdb
+C:\Users\millr\source\repos\GC Lab 07 Regular Expressions\GC Lab 07 Regular Expressions\obj\Debug\netcoreapp3.1\GC Lab 07 Regular Expressions.dll
+C:\Users\millr\source\repos\GC Lab 07 Regular Expressions\GC Lab 07 Regular Expressions\obj\Debug\netcoreapp3.1\GC Lab 07 Regular Expressions.pdb
+C:\Users\millr\source\repos\GC Lab 07 Regular Expressions\GC Lab 07 Regular Expressions\obj\Debug\netcoreapp3.1\GC Lab 07 Regular Expressions.genruntimeconfig.cache
