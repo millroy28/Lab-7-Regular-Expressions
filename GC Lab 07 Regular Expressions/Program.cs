@@ -62,7 +62,7 @@ namespace GC_Lab_07_Regular_Expressions
         
         public static bool NameValid(string name)
         {
-            if (Regex.IsMatch(name, @"\b[A-Z][a-z]+\s[A-Z][a-z]+\b"))
+            if (Regex.IsMatch(name, @"\b[A-Z][a-z]{1,29}\s[A-Z][a-z]{1,29}\b"))
                 return true;
             else
                 return false;
@@ -70,7 +70,7 @@ namespace GC_Lab_07_Regular_Expressions
 
         public static bool EmailValid(string email)
         {
-            if (Regex.IsMatch(email, @"\w+\@+\w+\.\w+"))
+            if (Regex.IsMatch(email, @"\w{5,10}\@\w{5,10}\.\w{2,3}"))
                 return true;
             else
                 return false;
